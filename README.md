@@ -6,7 +6,7 @@ The bot is segmented into 4 sections
 - Webscrapping of News from [FINVIZ](https://finviz.com/)
 - Pretraining of MLP model for sentiment classification
   - Dataset is obtained from [Kaggle](https://www.kaggle.com/ankurzing/sentiment-analysis-for-financial-news)
-  - Note: classification accuracy is approximately 70%, using more complex state of the art NLP model will improve the model accuracy
+  - Note: classification accuracy is approximately 70%, using complex state of the art NLP model will improve the model accuracy
 - API interface between [trading platform](https://alpaca.markets/) and bot
 - Trading strategy - simple trading strategy to buy/sell stocks based on majority voting on 'Bullish' or 'Bearish' sentiment
 
